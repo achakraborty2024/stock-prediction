@@ -1,2 +1,2 @@
 # stock-prediction
-Stock value prediction
+Stock prediction using LSTM model
